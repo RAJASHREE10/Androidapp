@@ -1,0 +1,3 @@
+download Android studio
+create required dependencies
+create database
