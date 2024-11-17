@@ -24,7 +24,7 @@ A **simple and intuitive sleep tracking app** developed with **Android** and **K
 ### 4. **Dark Space-Inspired Theme**
    - A visually appealing dark theme with elements inspired by outer space.
    - Reduces eye strain during nighttime usage.
-   - Customizable themes for user preference (light mode, space mode, etc.).
+   - Customizable themes for user preference 
 
 ---
 
